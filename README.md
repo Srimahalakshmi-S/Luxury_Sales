@@ -6,6 +6,6 @@ Build a complete real estate analytics solution using Python for advanced data c
 <br>
 <br>
 
-<img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/d43afc17-6432-4c78-9695-3e4ad2e5f85b" />
+<img width="1282" height="723" alt="image" src="https://github.com/user-attachments/assets/9eacebad-2a4a-4fbf-819e-7cbd6d24e326" />
 
 
