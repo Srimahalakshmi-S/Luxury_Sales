@@ -41,10 +41,11 @@ Size: 100,000+ rows
 Key Columns: Project_ID, Micro_Market, Builder, Ticket_Price_Cr, Configuration, Booking_Status, Amenity_Score, Buyer_Type, Comments
 
 👉 This project simulates a real-world real estate analytics pipeline combining Python, SQL, and Power BI for business decision-making.
+
+
 <img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/0d4f9e0e-66c4-4dc7-9386-cd264d706a88" />
 
-<br>
-<br>
+
 
 <img width="1282" height="723" alt="image" src="https://github.com/user-attachments/assets/9eacebad-2a4a-4fbf-819e-7cbd6d24e326" />
 
